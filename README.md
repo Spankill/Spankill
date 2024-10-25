@@ -14,5 +14,5 @@ Tecnologias y/o Lenguajes:
 - JavaScript
 - Vue 3
 
-![imagen](./images/portada linkedin.png)
+![imagen]([./images/portada linkedin.png](https://github.com/Spankill/Spankill/blob/main/images/portada%20linkedin.png))
   
