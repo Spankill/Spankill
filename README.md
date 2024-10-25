@@ -14,5 +14,5 @@ Tecnologias y/o Lenguajes:
 - JavaScript
 - Vue 3
 
-1[imagen]()
+1[imagen](./images/portada linkedin.png)
   
