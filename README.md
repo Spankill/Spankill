@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Spankill
-- 👀 I’m interested in ... languages of development android and development scientific 
-- 🌱 I’m currently learning ...beggin kotliner
+- 👋 Hi, I’m @Spankill (Carlos Aruhiza)
+- 👀 I’m interested in ... languages of development android.
+- 🌱 I’m currently learning ...beggin Full stack jr 
 - 💞️ I’m looking to collaborate on ..project medium and small to iniate
 - 📫 How to reach me ...aruhiza87@gmail.com
 
