@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...beggin Full stack jr 1 year experience
 - 💞️ I’m looking to collaborate on ..project medium and small to iniate but i love it the challenges
 - 📫 How to reach me ...aruhiza87@gmail.com or aruhiza2023@gmai.com
-my linkedin was hacked sniff😓🥲
+- ✏️ Linkedin linkedin.com/in/aruhizacarlos
 
 <!---
 Spankill/Spankill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
