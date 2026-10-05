@@ -19,7 +19,7 @@ Languages and Techs:
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/aruhizacarlos)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruhizacarlos)
 
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spankill&theme=vue-dark&hide_border=&short_numbers=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
