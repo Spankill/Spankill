@@ -24,6 +24,7 @@ Languages and Techs:
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spankill&theme=vue-dark&hide_border=&short_numbers=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Spankill&langs_count=4&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=Spankill&langs_count=4&theme=vue)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
